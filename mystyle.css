@@ -1,0 +1,34 @@
+h1 {
+  font-size: 60;
+  color: lightgrey
+}
+p {
+  color: white;
+  font-size: 20px;
+  margin: auto
+}
+body {
+ background-image: url("./images/ocean.jpg")
+}
+table, th, td {
+  border: 3px solid black;
+}
+div {
+  height: 100px;
+  width: 500px;
+}
+p {
+  border: 15px solid black;
+  padding: 50px;
+  margin: 20px;
+}
+h1 {
+  border:15px solid black;
+  padding: 50px;
+  margin: 20px;
+}
+img {
+  border: 15px solid black;
+  padding: 50px;
+  margin: 20px;
+}
